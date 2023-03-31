@@ -12,7 +12,8 @@
 --->
 
 
-📫 You can reach me via walter.soft.pro@gmail.com. <!---and you can also check out my portfolio and contributions on [insert links to your website, LinkedIn, or other relevant profiles].--->
+📫 You can reach me via walter.soft.pro@gmail.com. 
+<!---and you can also check out my portfolio and contributions on [insert links to your website, LinkedIn, or other relevant profiles].--->
 
 
 <!---
